@@ -108,7 +108,8 @@ plt.show()
 
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/39a12a8a-4870-496c-a7cd-138060011527)
 
-Prediction Value of Mean:
+## Prediction Value of Mean:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/c47a6bc9-032e-4e1c-9df9-5ab96c956dbe)
 
 
