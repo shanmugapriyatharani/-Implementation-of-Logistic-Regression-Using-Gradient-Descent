@@ -72,31 +72,40 @@ plt.show()
 ```
 
 ## Output:
-Array of X:
+## Array of X:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/4b81e5aa-fd0a-4311-8fc9-5269eb1ff783)
 
-Array of Y:
+## Array of Y:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/bf940b96-4a19-47a8-8fdc-0769fd473a20)
 
-Score Graph:
+## Score Graph:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/fc6a783d-0bcb-4c2b-8fd9-a41ba58895ff)
 
-Sigmoid Function Graph:
+## Sigmoid Function Graph:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/da34418d-f238-43ed-8ac6-ce5ab9fe1eb1)
 
-X_train_grad Value:
+## X_train_grad Value:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/9fbce397-e76f-4e94-b944-0223bc3fd792)
 
-Y_train_grad Value:
+## Y_train_grad Value:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/e7767e02-dde9-48f8-b199-1449fa159fe2)
 
-Print res_X:
+## Print res_X:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/0c404ff5-72d8-47c6-b93b-628f3e13b60b)
 
-Decision boundary:
+## Decision boundary:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/8e772817-fd6e-473f-a1d2-83cac17baf25)
 
-Probability Value:
+## Probability Value:
+
 ![image](https://github.com/shanmugapriyatharani/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393427/39a12a8a-4870-496c-a7cd-138060011527)
 
 Prediction Value of Mean:
